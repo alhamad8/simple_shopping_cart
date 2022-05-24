@@ -1,4 +1,5 @@
-# provider_learning
+# Shopping_cart
+simple shopping cart with provider state management
 
 A new Flutter project.
 
